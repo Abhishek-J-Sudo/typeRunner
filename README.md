@@ -42,8 +42,7 @@ All players participate in all stages, with times tracked cumulatively. The two 
    - After the final stage, see the final rankings
    - The two players with the lowest total time win!
 
-## © Copyright
-All rights reserved. This project and associated code are fully copyrighted and may not be reproduced, distributed, or used without explicit permission.
+
 
 ## 🙏 Acknowledgements
 
