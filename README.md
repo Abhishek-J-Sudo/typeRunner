@@ -2,8 +2,6 @@
 
 A real-time multiplayer typing game built with React and Firebase Realtime Database where players compete in a series of challenging typing tasks.
 
-![TypeRunner Game](https://via.placeholder.com/800x400?text=TypeRunner+Game)
-
 ## 🎮 Game Overview
 
 TypeRunner is a fast-paced typing competition for 4-10 players with four increasingly difficult challenge stages:
